@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0E16724A-564A-4792-88E7-6F10E23CCB20}"
+	ProjectSection(SolutionItems) = preProject
+		Directory.Build.props = Directory.Build.props
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwelogDb", "SwelogDb\SwelogDb.csproj", "{3A8A6237-AE4B-4149-B67E-CFA883837166}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A8A6237-AE4B-4149-B67E-CFA883837166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A8A6237-AE4B-4149-B67E-CFA883837166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A8A6237-AE4B-4149-B67E-CFA883837166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A8A6237-AE4B-4149-B67E-CFA883837166}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED6B0608-FB2C-4561-BD7A-032B9003CA98}
+	EndGlobalSection
+EndGlobal
